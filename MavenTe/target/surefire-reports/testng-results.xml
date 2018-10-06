@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-10-06T21:30:24Z" name="Command line suite" finished-at="2018-10-06T21:30:24Z" duration-ms="40">
+    <groups>
+    </groups>
+    <test started-at="2018-10-06T21:30:24Z" name="Command line test" finished-at="2018-10-06T21:30:24Z" duration-ms="40">
+      <class name="com.qa.testng.TestMaven3">
+        <test-method signature="display()[pri:0, instance:com.qa.testng.TestMaven3@7c0c77c7]" started-at="2018-10-06T21:30:24Z" name="display" finished-at="2018-10-06T21:30:24Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display -->
+        <test-method signature="display1()[pri:0, instance:com.qa.testng.TestMaven3@7c0c77c7]" started-at="2018-10-06T21:30:24Z" name="display1" finished-at="2018-10-06T21:30:24Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display1 -->
+      </class> <!-- com.qa.testng.TestMaven3 -->
+      <class name="com.qa.testng.TestMaven">
+        <test-method signature="display()[pri:0, instance:com.qa.testng.TestMaven@60d8c9b7]" started-at="2018-10-06T21:30:24Z" name="display" finished-at="2018-10-06T21:30:24Z" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display -->
+        <test-method signature="display1()[pri:0, instance:com.qa.testng.TestMaven@60d8c9b7]" started-at="2018-10-06T21:30:24Z" name="display1" finished-at="2018-10-06T21:30:24Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display1 -->
+      </class> <!-- com.qa.testng.TestMaven -->
+      <class name="com.qa.testng.TestMaven2">
+        <test-method signature="display()[pri:0, instance:com.qa.testng.TestMaven2@48aaecc3]" started-at="2018-10-06T21:30:24Z" name="display" finished-at="2018-10-06T21:30:24Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display -->
+        <test-method signature="display1()[pri:0, instance:com.qa.testng.TestMaven2@48aaecc3]" started-at="2018-10-06T21:30:24Z" name="display1" finished-at="2018-10-06T21:30:24Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- display1 -->
+      </class> <!-- com.qa.testng.TestMaven2 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
